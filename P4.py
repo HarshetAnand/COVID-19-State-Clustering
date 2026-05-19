@@ -1,7 +1,3 @@
-## Written by: Harshet Anand
-## Attribution: Hugh Liu's solutions for CS540 2021 Epic
-## Collaborated with Sreya Sarathy from CS540
-
 import pandas as pd
 import numpy as np
 import ast
